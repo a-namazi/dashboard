@@ -1,4 +1,4 @@
-module github.com/gorse-io/dashboard
+module github.com/a-namazi/dashboard
 
 go 1.24.11
 
