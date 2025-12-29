@@ -1,7 +1,7 @@
 <template>
   <d-container>
     <div style="text-align: center;" class="align-center">
-      <img style="width: 120px; margin-top: 60px; margin-bottom: 20px" src="@/assets/images/gorse.png"/>
+      <img style="width: 120px; margin-top: 60px; margin-bottom: 20px" src="@/assets/images/andisheh-logo.png"/>
       <h5>Welcome to Sahab dashboard</h5>
       <d-card>
         <d-card-body>

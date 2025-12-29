@@ -1,6 +1,6 @@
 <template>
   <footer class="main-footer d-flex p-2 px-3 bg-white border-top">
-    
+
   </footer>
 </template>
 
